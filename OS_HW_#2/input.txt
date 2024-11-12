@@ -1,0 +1,12 @@
+5 3         # Number of processes and resources
+1 0 1       # Allocation matrix row for P0
+2 0 0       # Allocation matrix row for P1
+3 0 2       # Allocation matrix row for P2
+2 1 1       # Allocation matrix row for P3
+0 0 2       # Allocation matrix row for P4
+7 5 3       # Max matrix row for P0
+3 2 2       # Max matrix row for P1
+9 0 2       # Max matrix row for P2
+2 2 2       # Max matrix row for P3
+4 3 3       # Max matrix row for P4
+2 4 1       # Available resources
