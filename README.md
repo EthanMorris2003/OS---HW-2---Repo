@@ -18,9 +18,9 @@ The program takes input from a file named `input.txt` and calculates whether the
    ```bash
     g++ bankers_algoritm.cpp
 
-   If the system is in a safe state, the program will print the safe sequence. If not, it will indicate that the system is not in a safe state.
+If the system is in a safe state, the program will print the safe sequence. If not, it will indicate that the system is not in a safe state.
 
-Example output:
+## Example output:
 
 Following is the SAFE Sequence:
 P0 -> P1 -> P3 -> P2 -> P4
